@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Sheetal-09
-- 👀 I’m interested in keeping my knowledge up-to-date.
-
 - 📫 How to reach me via email @Sheetalbharne09@gmail.com
 
 <!---
