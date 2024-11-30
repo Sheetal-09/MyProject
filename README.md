@@ -22,7 +22,7 @@ Overview: This Retail Analysis Power BI report is designed to provide actionable
 
 Data Source: **MS SQL SERVER **
 Data Destination: **Power BI **
-language tool used for Cleaning & Transformations: **DAX**
+language tool used for Cleaning & Transformations: **DAX** & **SQL** 
 
 **3. Netflix Data Analysis Report**
 Overview: A Netflix Data Analysis Power BI Report provides insights into Netflix's operations, audience behavior, and content performance, typically derived from a dataset containing information such as genres, ratings, release years, regions, and viewer statistics.
@@ -30,5 +30,31 @@ Overview: A Netflix Data Analysis Power BI Report provides insights into Netflix
 Data Source: **CSV **
 Data Destination: **Power BI **
 language tool used for Cleaning & Transformations: **PYTHON** (Jupiter notebook)
+
+**4.Customer Churn Report**
+Overview: A Customer Churn Power BI Report provides a comprehensive analysis of customer attrition, identifying patterns, trends, and key factors influencing churn rates. This report is crucial for understanding why customers leave and helps businesses implement strategies to improve retention.
+
+Data Source: **Excel** 
+Data Destination: **Power BI **
+language tool used for Cleaning & Transformations: **DAX**
+
+1. Overview and Key Metrics
+2. Churn Trends
+3. Key Drivers of Churn
+4. Predictive Analysis
+
+**5. Sales Power BI Report Summary**
+Overview: A Product Sales Power BI report offers an interactive platform for analyzing sales performance, trends, and insights across products, regions, and time periods.
+
+Purpose: To track and analyze product sales performance for data-driven decision-making.
+
+Data Source: **CSV**
+Data Destination: **Power BI **
+language tool used for Cleaning & Transformations: **DAX**
+
+1.Revenue Metrics
+2.Sales Volume
+3.Profitability
+4.Customer Insights
 
 
