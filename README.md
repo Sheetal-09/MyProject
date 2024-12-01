@@ -48,7 +48,7 @@ Overview: A Product Sales Power BI report offers an interactive platform for ana
 
 Purpose: To track and analyze product sales performance for data-driven decision-making.
 
-Data Source: **CSV**
+Data Source: **MS SQL SERVER**
 Data Destination: **Power BI **
 language tool used for Cleaning & Transformations: **DAX**
 
